@@ -24,3 +24,4 @@ append-only. 최신 항목을 아래에 추가함. 포맷: `YYYY-MM-DD | <작업
 2026-06-04 | INGEST | chatgpt-dstage-civ | "D단계 시공간공학 문명" PDF(22p) 수집 → [[D단계 시공간공학 문명]](기술체계 SSOT)·[[행성 분류 체계 (A~E급)]] 생성(stable), 소스 등록
 2026-06-04 | UPDATE | 기술 수준 (분야별) | PDF 캐논 정렬 — 결정포인트 5개 중 3해소(FTL/통신/동력)·2갱신(AI·죽음). D단계 페이지로 흡수 표기
 2026-06-04 | UPDATE | 거주가능/즉시거주가능 행성 | A~E급 연결(에덴급=A급) 추가, 상호 검증, MOC 갱신
+2026-06-08 | MAINT | repo | git init(main)·.gitignore 추가, GitHub 원격(JoSangyeon1983/interstellar-war) 연결, 초기 커밋(2fa86eb) 푸시
