@@ -25,3 +25,4 @@ append-only. 최신 항목을 아래에 추가함. 포맷: `YYYY-MM-DD | <작업
 2026-06-04 | UPDATE | 기술 수준 (분야별) | PDF 캐논 정렬 — 결정포인트 5개 중 3해소(FTL/통신/동력)·2갱신(AI·죽음). D단계 페이지로 흡수 표기
 2026-06-04 | UPDATE | 거주가능/즉시거주가능 행성 | A~E급 연결(에덴급=A급) 추가, 상호 검증, MOC 갱신
 2026-06-08 | MAINT | repo | git init(main)·.gitignore 추가, GitHub 원격(JoSangyeon1983/interstellar-war) 연결, 초기 커밋(2fa86eb) 푸시
+2026-06-08 | CREATE | README.md | 루트 README 작성 (프로젝트 개요·3레이어·디렉토리·원칙·워크플로), CLAUDE.md를 SSOT로 명시
