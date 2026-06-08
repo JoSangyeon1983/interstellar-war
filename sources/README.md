@@ -23,3 +23,4 @@
 | petigura-2013-pnas | Petigura et al. 2013, PNAS — 태양형 별의 22%가 거주가능대 지구형 행성 보유 | paper | https://www.pnas.org/doi/10.1073/pnas.1319909110 | 2026-06-04 |
 | berkeley-2013-news | UC Berkeley 보도 — 거주가능 행성은 흔한가 (적색왜성 포함 시 ~400억) | web | https://news.berkeley.edu/2013/11/04/astronomers-answer-key-question-how-common-are-habitable-planets/ | 2026-06-04 |
 | chatgpt-dstage-civ | D단계: 시공간공학 문명 (ChatGPT로 정리한 세계관 기술체계 설정) | pdf | files/D단계 시공간공학 문명.pdf | 2026-06-04 |
+| author-memo-history-2026-06 | 작가 메모 — 통합 연방 성립사·본편 직전 정세 (개척→독립→통합→쿠데타→독재→공위→내전) | memo | author-memo-history-2026-06.md | 2026-06-08 |
