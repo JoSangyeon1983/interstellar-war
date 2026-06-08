@@ -26,3 +26,7 @@ append-only. 최신 항목을 아래에 추가함. 포맷: `YYYY-MM-DD | <작업
 2026-06-04 | UPDATE | 거주가능/즉시거주가능 행성 | A~E급 연결(에덴급=A급) 추가, 상호 검증, MOC 갱신
 2026-06-08 | MAINT | repo | git init(main)·.gitignore 추가, GitHub 원격(JoSangyeon1983/interstellar-war) 연결, 초기 커밋(2fa86eb) 푸시
 2026-06-08 | CREATE | README.md | 루트 README 작성 (프로젝트 개요·3레이어·디렉토리·원칙·워크플로), CLAUDE.md를 SSOT로 명시
+2026-06-08 | MAINT | 04_Lore | 폴더 체계 정리 — 5개→3개. 좀비문서 [[기술 수준 (분야별)]] 고유내용(키스톤 인과·T0~T5·결정포인트 이력)을 [[D단계 시공간공학 문명]]에 흡수 후 삭제
+2026-06-08 | MAINT | 04_Lore | "은하 내 거주가능"+"즉시 거주가능" 두 환원페이지를 연속 퍼널 [[거주가능 행성 수 추정]] 1개로 병합, 원본 2개 삭제
+2026-06-08 | UPDATE | MOC, 행성 분류 체계, D단계 | 삭제·병합 반영해 wikilink 갱신, MOC Lore/Answers 목록 동기화, updated 날짜 갱신
+2026-06-08 | LINT | D단계, 행성 분류 체계, MOC | frontmatter 스키마 정규화 — 비표준 type:reference→lore, status:stable→canon (이전 세션이 스키마 미준수로 넣은 값 교정)
